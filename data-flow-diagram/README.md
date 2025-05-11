@@ -4,5 +4,5 @@ This directory contains the Data Flow Diagram (DFD) for the Airbnb Clone backend
 
 ## File
 
-- **File**: `data-flow-diagram.png`
+- **File**: `data-flow.png`
 - **Description**: Visualizes data inputs, processes, and outputs for the backend’s core functionalities.
